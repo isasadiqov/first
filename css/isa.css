@@ -1,0 +1,51 @@
+.container-fluid{
+    padding: 0 !important;
+    margin: 0;
+}
+
+.container-fluid .strow{
+    background-color:#2c3e50;
+    height: 60px;
+    margin: 0px;
+}
+
+.container-fluid .listler{
+    list-style-type: none;
+}
+.container-fluid .listler li{
+    float: left;
+    padding-left: 20px;
+    color: white;
+    margin-top: 20px;
+    margin-left: 15px;
+    text-shadow: 2px 2px 3px black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.container-fluid #logo{
+    
+   
+    margin-top: 5px;
+}
+.container-fluid #logo a{
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-shadow: 2px 2px 3px black;
+    font-weight: bold;
+    color: white;
+
+}
+.container-fluid #logo a:hover{
+    color: aqua;
+    text-decoration: none;  
+}
+.ndrow{
+    background-image: url(https://wallpaperplay.com/walls/full/9/0/f/102776.jpg);
+    padding: 0;
+    margin: 0 !important;
+    height: 1000px;
+ 
+}
+input{
+    width: 100%;
+    margin-top: 15px !important;
+}
